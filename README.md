@@ -158,3 +158,46 @@ Com base nos materiais fornecidos, os termos mais relevantes para a compreensão
 *   **Margem de Segurança (Margem para Imprevistos):** Diferença entre o que você acha que vai acontecer e o que pode realmente acontecer, permitindo que você sobreviva a cenários adversos.
 *   **Mente Superior (Master Mind):** Coordenação de conhecimentos e esforços em espírito de harmonia entre duas ou mais pessoas para atingir um propósito definido.
 *   **Auto-sugestão:** Instrumento de comunicação entre o consciente e o subconsciente, permitindo que pensamentos dominantes influenciem as ações e a fé do indivíduo.
+
+___
+
+Abaixo, apresento um resumo estruturado, um glossário de conceitos essenciais e um conjunto de prompts para revisão.
+
+### 1. Resumos Estruturados do Assunto
+
+#### A. O Enquadramento Institucional da Saúde Financeira
+A saúde financeira é definida pelo Banco Central do Brasil como um estado multidimensional onde o indivíduo honra obrigações, sente-se seguro quanto ao futuro e faz escolhas que permitem aproveitar a vida. Este estado é sustentado por quatro dimensões críticas: **gestão de recursos** (controle de fluxo), **consumo consciente** (diferenciar necessidade de desejo), **formação de poupança** (resiliência) e **crédito responsável** (prevenção do superendividamento). O **Open Finance** surge como ferramenta tecnológica para reduzir a assimetria de informação e personalizar serviços.
+
+#### B. Planejamento Orçamentário e Gestão de Riscos
+O framework técnico mais robusto para o orçamento doméstico é a **regra 50/30/20**, que destina 50% da renda líquida para necessidades básicas, 30% para desejos pessoais e 20% para o futuro ou quitação de dívidas. Como base de segurança, a **reserva de emergência** deve equivaler a um período de 3 a 12 meses das despesas essenciais, priorizando ativos de **alta liquidez, baixo risco de crédito e baixa volatilidade**. Para a quitação de dívidas, destacam-se os métodos **Avalanche** (foco nos juros altos) e **Bola de Neve** (foco no reforço psicológico ao quitar saldos menores primeiro).
+
+#### C. A Psicologia e o Comportamento com o Dinheiro
+O sucesso financeiro é descrito menos como uma habilidade técnica e mais como uma **habilidade pessoal (comportamento)**. Elementos como **sorte e risco** são irmãos e demonstram que resultados individuais são guiados por forças além do esforço. O conceito de **"suficiente"** é vital para evitar que a ganância leve indivíduos a arriscarem o que precisam por algo de que não precisam. Além disso, a **riqueza é o que se vê** (bens), enquanto a **fortuna é o que não se vê** (ativos financeiros não gastos que proporcionam liberdade e opções).
+
+#### D. Conceitos Técnicos de Economia e Investimentos
+A economia é monitorada por indicadores como o **PIB** (soma da riqueza produzida), **IPCA/IGP-M** (inflação) e a **Taxa Selic** (juros básicos). Investimentos dividem-se em **Renda Fixa** (retorno previsível ou indexado) e **Renda Variável** (retorno incerto dependente do mercado). O investidor deve considerar o tripé **retorno, risco e liquidez**, respeitando seu perfil (**conservador, moderado ou arrojado**) e utilizando a **diversificação** para reduzir riscos não sistêmicos.
+
+---
+
+### 2. Glossário de Principais Conceitos
+
+*   **Benchmark (Índice de Referência):** Indicador utilizado para comparar e avaliar o desempenho relativo de um produto de investimento.
+*   **Custo de Oportunidade:** Implícito na ideia de que nada é de graça; investir envolve aceitar volatilidade e incerteza como "taxas" para obter retornos futuros.
+*   **Juros Compostos:** Motor da liberdade financeira onde o tempo é o único fator exponencial; pequenas mudanças na taxa de crescimento levam a números extraordinários a longo prazo.
+*   **Mente Superior (Master Mind):** Coordenação de conhecimentos e esforços em espírito de harmonia entre duas ou mais pessoas para atingir um propósito definido.
+*   **Open Finance:** Sistema que permite ao consumidor compartilhar seus dados financeiros entre instituições para obter melhores condições.
+*   **Spread Bancário:** Diferença entre a taxa de juros que o banco cobra ao emprestar e a que paga ao captar recursos.
+*   **Suitability:** Prática legal que exige a verificação da adequação de um produto de investimento ao perfil e objetivos do cliente.
+*   **Taxa de Juros Real:** Taxa nominal descontada a inflação do período; representa o aumento real do poder de compra.
+*   **Volatilidade:** Grau de variação dos preços de um ativo; medida estatística de risco baseada na oscilação dos retornos.
+
+---
+
+### 3. Conjunto de Prompts Reutilizáveis para Revisão
+
+*   **Análise de Perfil:** "Com base no conceito de *Suitability* e nas dimensões de risco (Capacidade vs. Disposição), como eu classificaria minha estratégia atual de investimentos para o meu objetivo de [INSERIR OBJETIVO]?"
+*   **Revisão Orçamentária:** "Aplique a **regra 50/30/20** aos meus gastos mensais atuais. Onde está ocorrendo a 'engorda' dos custos fixos e como posso reajustar para garantir os 20% do pilar do futuro?"
+*   **Teste de Resiliência:** "Considerando que a **reserva de emergência** é o alicerce de qualquer estratégia, quantos meses de despesas essenciais eu possuo hoje e qual seria o impacto psicológico se meus investimentos de renda variável caíssem 30% amanhã?"
+*   **Reflexão Psicológica:** "Qual 'jogo' financeiro eu estou jogando agora? Estou sendo influenciado por opiniões de pessoas (ou redes sociais) que possuem horizontes de tempo e objetivos diferentes dos meus?"
+*   **Avaliação de Metas:** "Utilizando a técnica dos **seis passos para transmutar desejo em ouro** de Napoleon Hill, qual é a quantia exata que pretendo acumular, em qual data e o que darei em troca desse valor?"
+*   **Monitoramento Técnico:** "Qual foi a minha **taxa de juros real** no último ano? Meu benchmark escolhido ainda é adequado para a classe de ativos que possuo?"
